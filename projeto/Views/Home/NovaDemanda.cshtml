@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="text-center">
+
+    <h4> CADASTRAR NOVA DEMANDA</h4>
+</div>
+
+<form asp-controller="Demanda" asp-action="Criar" method="post">
+   <div class="row g-3">
+    <div class="col-md-6">
+        <label for="titulo" class="form-label">TITULO</label>
+        <input type="text" class="form-control" id="titulo">
+    </div>
+    </div>
+    <div class="col-12">
+        <label for="DESCRICAO" class="form-label">DESCRIÇÃO</label>
+        <textarea class="form-control" id="Descricao" rows="4"></textarea>
+    </div>
+
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">ENVIAR</button>
+    </div>
+</form>
