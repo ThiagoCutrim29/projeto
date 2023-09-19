@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = projeto
 build_property.RootNamespace = projeto
-build_property.ProjectDir = C:\Users\thiag\OneDrive\Área de Trabalho\projeto\projeto\
+build_property.ProjectDir = C:\Users\pc\Desktop\projeto\projeto\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\thiag\OneDrive\Área de Trabalho\projeto\projeto
+build_property.MSBuildProjectDirectory = C:\Users\pc\Desktop\projeto\projeto
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/thiag/OneDrive/Área de Trabalho/projeto/projeto/Views/Home/About.cshtml]
+[C:/Users/pc/Desktop/projeto/projeto/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thiag/OneDrive/Área de Trabalho/projeto/projeto/Views/Home/DemandasAbertas.cshtml]
+[C:/Users/pc/Desktop/projeto/projeto/Views/Home/DemandasAbertas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZW1hbmRhc0FiZXJ0YXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thiag/OneDrive/Área de Trabalho/projeto/projeto/Views/Home/Index.cshtml]
+[C:/Users/pc/Desktop/projeto/projeto/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thiag/OneDrive/Área de Trabalho/projeto/projeto/Views/Home/ListarTodas.cshtml]
+[C:/Users/pc/Desktop/projeto/projeto/Views/Home/ListarTodas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0YXJUb2Rhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thiag/OneDrive/Área de Trabalho/projeto/projeto/Views/Home/NovaDemanda.cshtml]
+[C:/Users/pc/Desktop/projeto/projeto/Views/Home/NovaDemanda.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3ZhRGVtYW5kYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thiag/OneDrive/Área de Trabalho/projeto/projeto/Views/Home/Relatorios.cshtml]
+[C:/Users/pc/Desktop/projeto/projeto/Views/Home/Relatorios.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWxhdG9yaW9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thiag/OneDrive/Área de Trabalho/projeto/projeto/Views/Shared/Error.cshtml]
+[C:/Users/pc/Desktop/projeto/projeto/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thiag/OneDrive/Área de Trabalho/projeto/projeto/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/pc/Desktop/projeto/projeto/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thiag/OneDrive/Área de Trabalho/projeto/projeto/Views/_ViewImports.cshtml]
+[C:/Users/pc/Desktop/projeto/projeto/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thiag/OneDrive/Área de Trabalho/projeto/projeto/Views/_ViewStart.cshtml]
+[C:/Users/pc/Desktop/projeto/projeto/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thiag/OneDrive/Área de Trabalho/projeto/projeto/Views/Shared/_Layout.cshtml]
+[C:/Users/pc/Desktop/projeto/projeto/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-f6rfht341o
